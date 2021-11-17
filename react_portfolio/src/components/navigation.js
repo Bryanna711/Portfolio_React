@@ -26,7 +26,7 @@ const HeaderNav = ({ currentPage, handlePageChange }) => {
                                 onClick={() => handlePageChange('Contact')}>Contact</a>
                         </li>
                         <li className="nav-item-active">
-                            <a className="nav-link" href="/pdf/Bryanna Vinge Technical Resume (2).pdf">Resume</a>
+                            <a className="nav-link" href="pdf/Bryanna Vinge Technical Resume (2).pdf">Resume</a>
                         </li>
                     </ul>
                 </nav>

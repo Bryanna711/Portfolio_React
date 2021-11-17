@@ -9,7 +9,7 @@ const About = () => {
                     <h2 className="text-white d-flex justify-content-center p-3" id="aboutme">About Me</h2>
                     {/* </div> */}
                     <div className="col-xl-3 col-md-4 col-sm-3 d-flex justify-content-center"><img
-                        className="border border-dark border-5" src="../../../public/images/corporate 2.jpg" alt=" Bryanna Vinge" />
+                        className="border border-dark border-5" src="images/corporate 2.jpg" alt=" Bryanna Vinge" />
                     </div>
                     <div className="col-xl-6 p-4 col-md-8 col-sm-9">
                         <p className="text-white"> Most problems can be solved with a little bit of listening and a lot of

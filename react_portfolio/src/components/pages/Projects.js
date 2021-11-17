@@ -12,7 +12,7 @@ const Projects = () => {
                         <div className="row d-flex justify-content-around p-2">
                             <div className="col-xl-5 col-sm-12">
                                 <div className="card-100 border border-dark border-5 border-rounded">
-                                    <img src="./images/perfect pet placer.png"
+                                    <img src="images/perfect pet placer.png"
                                         className="card-img-top border border-dark border-rounded border-3 height:50%"
                                         alt="Pet Placer Screenshot"></img>
                                     <div className="card-body">
@@ -31,7 +31,7 @@ const Projects = () => {
                             </div>
                             <div className="col-xl-5 col-sm-12">
                                 <div className="card-100 border border-dark border-5 border-rounded">
-                                    <img src="/images/pass pic.png"
+                                    <img src="images/pass pic.png"
                                         className="card-img-top border border-dark border-3 border-rounded"
                                         alt="Password Screenshot"></img>
                                     <div className="card-body">
@@ -52,7 +52,7 @@ const Projects = () => {
                         <div className="row d-flex justify-content-around p-2 pb-5">
                             <div className="col-xl-5 col-sm-12">
                                 <div className="card-100 border border-dark border-5 border-rounded">
-                                    <img src="/images/daily planner.png"
+                                    <img src="images/daily planner.png"
                                         className="card-img-top border border-dark border-3 border-rounded"
                                         alt="Daily Planner Screenshot"></img>
                                     <div className="card-body">
@@ -71,7 +71,7 @@ const Projects = () => {
                             </div>
                             <div className="col-xl-5 col-sm-12">
                                 <div className="card-100 border border-dark border-5 border-rounded">
-                                    <img src="/images/homeshool hookup.png"
+                                    <img src="images/homeshool hookup.png"
                                         className="card-img-top border border-drk border-rounded border-3"
                                         alt="Horiseon Screenshot"></img>
                                     <div className="card-body">
