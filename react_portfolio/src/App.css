@@ -1,0 +1,58 @@
+* {
+  font-family: "Special Elite", cursive;
+  background-color: rgb(10, 65, 46);
+}
+
+/* #footer {
+  background-color: rgb(18, 100, 71);
+  color: white;
+}
+
+.list-group-item {
+  background-color: rgb(10, 65, 46);
+  color: white;
+} */
+.card-body {
+  background-color: rgb(93, 202, 164);
+}
+
+.card-text {
+  color: rgb(83, 1, 1);
+  background-color: rgb(93, 202, 164);
+}
+
+.card-title {
+  color: rgb(109, 5, 5);
+  background-color: rgb(93, 202, 164);
+}
+.navbar {
+  background-color: rgb(93, 202, 164);
+}
+
+.nav {
+  background-color: rgb(93, 202, 164);
+}
+
+.nav-link {
+  background-color: rgb(93, 202, 164);
+  color: rgb(83, 1, 1);
+}
+
+.card-text .text-reset {
+  background-color: rgb(93, 202, 164);
+}
+
+.mt-4 {
+  background-color: rgb(109, 5, 5);
+}
+h1 {
+  background-color: rgb(109, 5, 5);
+}
+
+.mt-4 p {
+  background-color: rgb(109, 5, 5);
+}
+
+h2 {
+  font-size: 40px;
+}
